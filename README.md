@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Tomli0 👋</h1>
+<h1 align="center">Hi, I’m Tommy 👋</h1>
 
 <p align="center">
   <strong>Learning programming by building productive, reliable applications</strong><br/>
